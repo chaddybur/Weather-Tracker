@@ -1,0 +1,16 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-image: radial-gradient(10%);
+}
+input{
+    opacity: 20%;
+    margin-top: 43%;
+    color: black;
+}
+label{
+    font-style: bold;
+    margin-left: 3rem;
+    color: whitesmoke;
+    
+}
