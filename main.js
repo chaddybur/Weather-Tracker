@@ -1,5 +1,6 @@
 //api.openweathermap.org/data/2.5/weather?q=London
 
+let APIKEY = '5977d27d861ec221cea569efba78f5da'
 
    document.querySelector('.location').addEventListener('click', getFetch)
   
